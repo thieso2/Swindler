@@ -1,6 +1,7 @@
 // This file defines protocols that wrap classes in AXSwift, so we can inject fakes while testing.
 // If a method from AXSwift is needed, it can be added to the corresponding protocol.
 
+import Cocoa
 import AXSwift
 
 /// Protocol that wraps AXSwift.UIElement.

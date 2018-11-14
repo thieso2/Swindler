@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AXSwift",
+        "repositoryURL": "https://github.com/thieso2/AXSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "8e9fbb63debc70ae6b285adac2084c395c92de49",
+          "version": "0.2.3"
+        }
+      },
+      {
+        "package": "PromiseKit",
+        "repositoryURL": "https://github.com/mxcl/PromiseKit.git",
+        "state": {
+          "branch": null,
+          "revision": "c70677a12b8367a808af7049a94096370f7cda0d",
+          "version": "4.5.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

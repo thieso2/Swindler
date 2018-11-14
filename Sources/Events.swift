@@ -1,3 +1,5 @@
+import Cocoa
+
 /// The basic protocol for an event struct.
 public protocol EventType {
     /// All events are marked as internal or external. Internal events were caused via Swindler,
